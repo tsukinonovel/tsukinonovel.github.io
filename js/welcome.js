@@ -6,12 +6,12 @@ if (localStorage.getItem("popWelcomeWindow") !== "0") {
         localStorage.setItem("popWelcomeWindow", "0");
     }
     Snackbar.show({
-        text: '欢迎您的到来！',
+        text: '欢迎您的到来！幻想之旅即将开启！',
         pos: 'top-center',
         onActionClick: function (element) {
-            window.open("/about")
+            window.open("/categories")
         },
-        actionText: "前往关于页面",
+        actionText: "开始阅读",
     });
 }
 if (sessionStorage.getItem("popCookieWindow") !== "0") {
@@ -37,7 +37,7 @@ function browserTC() {
         text: '浏览器版本较低，网站样式可能错乱',
         actionText: '关闭',
         duration: '6000',
-        pos: 'top-left'
+        pos: 'bottom-left'
     });
 }
 
