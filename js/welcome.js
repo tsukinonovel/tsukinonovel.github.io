@@ -7,11 +7,11 @@ if (localStorage.getItem("popWelcomeWindow") !== "0") {
     }
     Snackbar.show({
         text: '欢迎您的到来！',
-        pos: 'top-left',
+        pos: 'top-center',
         onActionClick: function (element) {
             window.open("/about")
         },
-        actionText: "前往关于",
+        actionText: "前往关于页面",
     });
 }
 if (sessionStorage.getItem("popCookieWindow") !== "0") {
