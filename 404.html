@@ -1,4 +1,26 @@
-<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>月野的魔法幻想之旅 | 月野的魔法幻想之旅</title><meta name="author" content="月野的午后茶话会,tsukinonovel@outlook.com"><meta name="copyright" content="月野的午后茶话会"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta property="og:type" content="website">
+
+    <script type="text/javascript">
+      (function () {
+        const now = new Date();
+        const days = ["04-04","05-12","12-13"];
+
+        days.forEach(day => {
+          let dayStr = day.replace(/-/g, '/');
+          if (!/^\d{4}\/\d{1,2}\/\d{1,2}$/.test(dayStr)) {
+            dayStr = `${now.getFullYear()}/${dayStr}`;
+          }
+          const isMourningDay = now.toDateString() === new Date(dayStr).toDateString();
+
+          if (isMourningDay) {
+            const style = document.createElement('style');
+            style.type = 'text/css';
+            style.innerHTML = `html {     -webkit-filter: grayscale(100%); /* webkit */     -moz-filter: grayscale(100%); /* firefox */     -ms-filter: grayscale(100%); /* ie9 */     -o-filter: grayscale(100%); /* opera */     filter: grayscale(100%);     filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1); filter:gray; /* ie9- */   }`;
+            document.head.appendChild(style);
+          }
+        });
+      })();
+    </script>
+  <!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>月野的魔法幻想之旅 | 月野的魔法幻想之旅</title><meta name="author" content="月野的午后茶话会,tsukinonovel@outlook.com"><meta name="copyright" content="月野的午后茶话会"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta property="og:type" content="website">
 <meta property="og:title" content="月野的魔法幻想之旅">
 <meta property="og:url" content="https://tsukinonovel.github.io/404.html">
 <meta property="og:site_name" content="月野的魔法幻想之旅">
