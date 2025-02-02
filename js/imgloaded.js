@@ -69,8 +69,8 @@ class ProgressiveLoad {
   const config = {
     smallSrc: '/img/background-2.jpg', // 小图链接 尽可能配置小于100k的图片
     largeSrc: '/img/background.jpg', // 大图链接 最终显示的图片
-    mobileSmallSrc: '/img/background-2.jpg', // 手机端小图链接 尽可能配置小于100k的图片
-    mobileLargeSrc: '/img/background.jpg', // 手机端大图链接 最终显示的图片
+    mobileSmallSrc: '/img/background-2-PE.jpg', // 手机端小图链接 尽可能配置小于100k的图片
+    mobileLargeSrc: '/img/background-PE.jpg', // 手机端大图链接 最终显示的图片
     enableRoutes: ['/'],
     };
 

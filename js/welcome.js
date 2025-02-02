@@ -6,7 +6,7 @@ if (localStorage.getItem("popWelcomeWindow") !== "0") {
         localStorage.setItem("popWelcomeWindow", "0");
     }
     Snackbar.show({
-        text: '欢迎您的到来！幻想之旅即将开启！',
+        text: '&emsp;欢迎您的到来！幻想之旅即将开启！<br><br>（首次加载可能较缓慢，请耐心等待…）',
         pos: 'top-center',
         onActionClick: function (element) {
             window.open("/categories")
