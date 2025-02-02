@@ -48,3 +48,10 @@
     /* 小图锯齿多，增加高斯模糊 */
     filter: blur(50px);
   }
+
+  /* 对背景图应用模糊效果，此处不模糊主页的头图 */
+  #footer::before,
+  #page-header:not(.full_page):before {
+    -webkit-backdrop-filter: blur(5px); /* 添加 Safari 兼容性前缀 */
+    backdrop-filter: blur(5px);
+  }
