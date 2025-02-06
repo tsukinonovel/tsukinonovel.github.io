@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tsukinonovel.netlify.app/about/index.html</loc>
+    
+    <lastmod>2025-02-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://tsukinonovel.netlify.app/worldview/index.html</loc>
     
     <lastmod>2025-02-02</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://tsukinonovel.netlify.app/2025/01/28/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%8F%AF%E7%88%B1%E5%A5%B3%E5%90%8C%E5%AD%A6%E7%A5%9E%E7%A7%98%E5%A4%B1%E8%B8%AA/</loc>
     
     <lastmod>2025-02-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://tsukinonovel.netlify.app/about/index.html</loc>
-    
-    <lastmod>2025-01-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,7 +121,7 @@
 
   <url>
     <loc>https://tsukinonovel.netlify.app/</loc>
-    <lastmod>2025-02-05</lastmod>
+    <lastmod>2025-02-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,21 +129,21 @@
   
   <url>
     <loc>https://tsukinonovel.netlify.app/tags/%E6%9C%88%E9%87%8E%E7%9A%84%E9%AD%94%E6%B3%95%E5%B9%BB%E6%83%B3%E4%B9%8B%E6%97%85/</loc>
-    <lastmod>2025-02-05</lastmod>
+    <lastmod>2025-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://tsukinonovel.netlify.app/tags/%E5%90%8E%E8%97%A4%E5%A4%A7%E5%B4%8E%E7%9A%84%E8%BF%BD%E5%87%BB%E6%94%BB%E7%95%A5/</loc>
-    <lastmod>2025-02-05</lastmod>
+    <lastmod>2025-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://tsukinonovel.netlify.app/tags/Test-Tag/</loc>
-    <lastmod>2025-02-05</lastmod>
+    <lastmod>2025-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -152,21 +152,21 @@
   
   <url>
     <loc>https://tsukinonovel.netlify.app/categories/%E4%B8%BB%E7%BA%BF-%E6%9C%88%E9%87%8E%E7%9A%84%E9%AD%94%E6%B3%95%E5%B9%BB%E6%83%B3%E4%B9%8B%E6%97%85/</loc>
-    <lastmod>2025-02-05</lastmod>
+    <lastmod>2025-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://tsukinonovel.netlify.app/categories/%E6%94%AF%E7%BA%BF-%E5%90%8E%E8%97%A4%E5%A4%A7%E5%B4%8E%E7%9A%84%E8%BF%BD%E5%87%BB%E6%94%BB%E7%95%A5/</loc>
-    <lastmod>2025-02-05</lastmod>
+    <lastmod>2025-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://tsukinonovel.netlify.app/categories/Test-Web/</loc>
-    <lastmod>2025-02-05</lastmod>
+    <lastmod>2025-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
